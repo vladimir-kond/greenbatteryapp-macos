@@ -24,18 +24,18 @@ Get GreenBattery app from [Apple App Store](https://www.apple.com/app-store/).
 
 ### Screenshots
 
-![100% vertical power menu](images/100 vertical power menu.png)
+![100% vertical power menu](images/100-vertical-power-menu.png)
 
-![no100 vertical power menu](images/no100 vertical power menu.png)
+![no100 vertical power menu](images/no100-vertical-power-menu.png)
 
-![100 vertical power](images/100 vertical power.png)
+![100 vertical power](images/100-vertical power.png)
 
-![100 vertical](images/100 vertical.png)
+![100 vertical](images/100-vertical.png)
 
-![100 horizontal](images/100 horizontal.png)
+![100 horizontal](images/100-horizontal.png)
 
-![75 vertical](images/75 vertical.png)
+![75 vertical](images/75-vertical.png)
 
-![15 vertical](images/15 vertical.png)
+![15 vertical](images/15-vertical.png)
 
-![5 vertical](images/5 vertical.png)
+![5 vertical](images/5-vertical.png)
