@@ -28,7 +28,7 @@ Get GreenBattery app from [Apple App Store](https://www.apple.com/app-store/).
 
 ![no100 vertical power menu](images/no100-vertical-power-menu.png)
 
-![100 vertical power](images/100-vertical power.png)
+![100 vertical power](images/100-vertical-power.png)
 
 ![100 vertical](images/100-vertical.png)
 
