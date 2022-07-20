@@ -26,7 +26,7 @@ Get GreenBattery app from Apple App Store: https://apps.apple.com/us/app/greenba
 
 ### Support
 
-If you need any help with the app, feel free to send me an [email](mailto:vladimir.kond@gmail.com).
+If you need any help with the app, feel free to send me an [email](mailto:greenbattery.app.macos@gmail.com).
 
 ### Screenshots
 
