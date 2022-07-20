@@ -22,7 +22,7 @@ If you choose to "Launch GreenBattery App at Login" on the Welcome screen then t
 
 ### Install
 
-Get GreenBattery app from [Apple App Store](https://www.apple.com/app-store/).
+Get GreenBattery app from Apple App Store: https://apps.apple.com/us/app/greenbattery/id1635085304
 
 ### Screenshots
 
