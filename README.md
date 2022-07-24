@@ -2,15 +2,15 @@
 
 ## GreenBattery app for macOS
 
-Clean and simple battery status indicator!
+Clean and simple battery monitor!
 
 ### Description
 
-High quality app to monitor the battery charge level of your MacBook.
+High quality app to monitor the battery level of your MacBook.
 
-Easily change the battery icon orientation and decide if you want to display the percentage.
+You can easily change the battery icon orientation and decide if you want to display the percentage.
 
-The app will display a power plug icon when your MacBook is connected to a power source.
+When your MacBook is connected to a power source, the app will display a bolt or a power plug icon depending on your selection.
 
 From the technical standpoint, the app was built with the efficiency in mind because an app that monitors the battery should consume as little power as possible.
 
