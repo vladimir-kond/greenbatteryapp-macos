@@ -30,18 +30,18 @@ If you need any help with the app, feel free to send me an [email](mailto:greenb
 
 ### Screenshots
 
-![100% vertical power menu](images/100-vertical-power-menu.png)
+![1](images/1.png)
 
-![no100 vertical power menu](images/no100-vertical-power-menu.png)
+![2](images/2.png)
 
-![100 vertical power](images/100-vertical-power.png)
+![3](images/3.png)
 
-![100 vertical](images/100-vertical.png)
+![4](images/4.png)
 
-![100 horizontal](images/100-horizontal.png)
+![5](images/5.png)
 
-![75 vertical](images/75-vertical.png)
+![6](images/6.png)
 
-![15 vertical](images/15-vertical.png)
+![7](images/7.png)
 
-![5 vertical](images/5-vertical.png)
+![8](images/8.png)
